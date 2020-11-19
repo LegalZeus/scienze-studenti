@@ -1,0 +1,114 @@
+h1 {color:red;
+    text-align: center;
+	font-weight:400;
+	font-size:300%;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+	}
+
+body {background-image: url("https://www.periodicodaily.com/wp-content/uploads/2020/02/dna2-696x392.jpg");
+      background-size: cover;
+      }	
+
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    /*
+    position: fixed;
+    top: 0;
+    width: 100%;*/
+}
+  
+.navbar li {
+    float: left;
+}
+  
+.navbar li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+    font-size: 110%;    
+}
+  
+.navbar li a:hover {
+    background-color: #111;
+}
+
+.par {
+    font-size: x-large;
+    padding: 1em;
+}
+.par h2{
+    text-align: center;
+    margin-top: 0;
+}
+
+    
+
+h2 {text-align:center;
+	color:red;
+	font-size:300%}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40% ;}
+
+dl {text-align:center; 
+    color:white;
+    font-size:large;
+	font-weight:400;
+	font-weight:400;
+		
+	}
+
+h3{color:red;
+   font-size:x-large;
+   text-align: center}
+
+video{
+    margin-left: 50vw;
+    transform: translate(-50%);
+}
+
+	
+
+	p {color:white;
+	   font-size:x-large;
+	   font-weight:400
+	   }
+	   
+	  
+	  
+
+h4 {color:red;
+	font-size:x-large;
+	font-weight:400;
+	text-align: center}
+		
+h5 {color:red;
+	font-size:x-large;
+	font-weight:400;
+	text-align: center	}
+
+iframe { display:block;
+      margin:0px auto;
+      text-align:center;}	
+
+dl {color: red;}
+   
+  
+
+
+	
